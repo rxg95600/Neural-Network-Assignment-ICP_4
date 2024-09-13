@@ -5,6 +5,7 @@ NAME: RAMA KRISHNA GANTA ID#: 700759560
 VIDEO: https: https://drive.google.com/file/d/14r5qEwzSx4kSmd55HmsLchmuvC-GKEkP/view?usp=sharing
 
 1.Use the use case in the class: 
+![image](https://github.com/user-attachments/assets/55da4d2f-ac3d-4681-9f52-e25eed4f122f)
 
 
 1.1 a. Add more Dense layers to the existing code and check how the accuracy changes.
@@ -21,6 +22,9 @@ sc = StandardScaler()
 ![image](https://github.com/user-attachments/assets/6b8eaf65-7d34-46cc-bf96-2e90c0da3f03)
 
 2.Use Image Classification on the hand written digits data set (mnist)
+
+![image](https://github.com/user-attachments/assets/106f8d09-0bfa-4a9d-b4aa-e6664ee95812)
+
 
 2.1. Plot the loss and accuracy for both training data and validation data using the history object in the source
 code.
