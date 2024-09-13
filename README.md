@@ -12,4 +12,4 @@ VIDEO: https: https://drive.google.com/file/d/14r5qEwzSx4kSmd55HmsLchmuvC-GKEkP/
 
 
 1.2 Change the data source to Breast Cancer dataset * available in the source code folder and make required changes. Report accuracy of the model. Then we have added the breast cancer dataset then extracting features and labelsthen encoding the label then splitting the data into training and testing dataset and then evaluting the data set.
-![image](https://github.com/user-attachments/assets/c8008b44-3073-472c-83a7-a19e9d68056c)
+![image](https://github.com/user-attachments/assets/1a396e7c-ee9f-47fa-862e-fef569584841)
