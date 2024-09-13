@@ -20,3 +20,25 @@ from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
 
 ![image](https://github.com/user-attachments/assets/6b8eaf65-7d34-46cc-bf96-2e90c0da3f03)
+
+2.Use Image Classification on the hand written digits data set (mnist)
+
+2.1. Plot the loss and accuracy for both training data and validation data using the history object in the source
+code.
+![download](https://github.com/user-attachments/assets/ea0042a0-d717-4451-88bb-fd5e9376955e)
+
+
+
+2.2. Plot one of the images in the test data, and then do inferencing to check what is the prediction of the model
+on that single image.
+![download](https://github.com/user-attachments/assets/1a102738-56c2-4ed2-ae44-e0a2edd209ed)
+
+
+2.3. We had used 2 hidden layers and Relu activation. Try to change the number of hidden layer and the
+activation to tanh or sigmoid and see what happens.
+![image](https://github.com/user-attachments/assets/499f45dc-c54f-4312-8ed9-70d56ca0161f)
+
+2.4. Run the same code without scaling the images and check the performance?
+![image](https://github.com/user-attachments/assets/66781d54-99d5-440c-b730-2ae233458358)
+![download](https://github.com/user-attachments/assets/e28ef9ff-00d7-4ed4-87dc-bbcb5f5b8fac)
+
